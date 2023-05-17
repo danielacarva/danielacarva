@@ -8,7 +8,7 @@
 - 📫 How to reach me: dcarva23@hotmail.com.
 
 Cursos:
-https://euprogramo.thinkific.com/certificates/ompprrdemy
+<br> - https://euprogramo.thinkific.com/certificates/ompprrdemy
 <!---
 danielacarva/danielacarva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
