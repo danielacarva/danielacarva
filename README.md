@@ -9,7 +9,7 @@
 
 Cursos:
 <br> - https://euprogramo.thinkific.com/certificates/ompprrdemy
-<!---
-danielacarva/danielacarva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Você pode acessar o jogo Pong feito no Scratch no Curso de Lógica de Programação da Alura:
+https://scratch.mit.edu/projects/863120653
+
