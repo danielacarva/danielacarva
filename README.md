@@ -10,11 +10,11 @@
 Cursos:
 <br> - https://euprogramo.thinkific.com/certificates/ompprrdemy - PrograMaria (17/05/2023)
 <br> - Programação 10 hs Lógica de programação com o jogo do Pong e JavaScript (11/06/2023) e Laços e listas com JavaScript (12/06/2023)
-<br> - Front-End 28 hr
-        <br>- HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags (de 10/05/2023 a 25/05/2023)
-        <br>- HTML e CSS: classes, posicionamento e Flexbox (de 25/05/2023 a 26/05/2023)
-        <br>- HTML e CSS: cabeçalho, footer e variáveis (de 26/05/2023 a 02/06/2023)
-        <br>- HTML e CSS: trabalhando com responsividade e publicação de projetos (de 02/06/2023 a 05/06/2023)
+<br> - Front-End 28 hr - Alura :
+        <br>* HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags (de 10/05/2023 a 25/05/2023)
+        <br>* HTML e CSS: classes, posicionamento e Flexbox (de 25/05/2023 a 26/05/2023)
+        <br>* HTML e CSS: cabeçalho, footer e variáveis (de 26/05/2023 a 02/06/2023)
+        <br>* HTML e CSS: trabalhando com responsividade e publicação de projetos (de 02/06/2023 a 05/06/2023)
 <br> - JavaScript para Web: Crie páginas dinâmicas - Alura (16/07/2023)
 
 Você pode acessar o jogo Pong feito no Scratch no Curso de Lógica de Programação da Alura:
